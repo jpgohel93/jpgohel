@@ -5,7 +5,7 @@ markdown
 
 <!-- Contact and keys -->
 <p align="center">
-<a href="mailto:jpgphil93@gmail.com” title="Email Address"><code>jayesh at example dot com</code></a> │ <a href="https://keybase.io/jayeshgohel/pgp_keys.asc?fingerprint=1234567890" title="PGP Public Key"><code>1234 5678 90AB CDEF</code></a> │ <a href="https://matrix.to/#/@jayesh:matrix.org" title="Matrix User ID"><code>@jayesh:matrix.org</code></a>
+<a href="mailto:jpgphil93@gmail.com” title="Email Address"><code>jpgohil93@gmail.com</code></a>
 </p>
 
 <!-- Socials -->
